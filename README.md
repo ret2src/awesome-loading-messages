@@ -47,4 +47,5 @@ The initial set of loading messages was shamelessly stolen from [GCHQ's CyberChe
 "Pushing secrets to public git repository ..."
 "Extinguishing Firewall ..."
 "Listening on 0.0.0.0 ..."
+"Encrypting with SHA-256 ..."
 ```
