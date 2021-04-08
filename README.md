@@ -41,4 +41,10 @@ The initial set of loading messages was shamelessly stolen from [GCHQ's CyberChe
 "Stealing user data ..."
 "Setting up trackers ..."
 "Dereferencing NULL pointers ..."
+"Training AI with cat pictures ..."
+"Scanning port 65536 ..."
+"Deleting C:\Windows\System32 ..."
+"Pushing secrets to public git repository ..."
+"Extinguishing Firewall ..."
+"Listening on 0.0.0.0 ..."
 ```
